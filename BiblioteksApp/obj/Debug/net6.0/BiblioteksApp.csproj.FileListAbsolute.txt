@@ -1,0 +1,15 @@
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\bin\Debug\net6.0\BiblioteksApp.exe
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\bin\Debug\net6.0\BiblioteksApp.deps.json
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\bin\Debug\net6.0\BiblioteksApp.runtimeconfig.json
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\bin\Debug\net6.0\BiblioteksApp.dll
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\bin\Debug\net6.0\BiblioteksApp.pdb
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.csproj.AssemblyReference.cache
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.AssemblyInfoInputs.cache
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.AssemblyInfo.cs
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.csproj.CoreCompileInputs.cache
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.dll
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\refint\BiblioteksApp.dll
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.pdb
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\BiblioteksApp.genruntimeconfig.cache
+C:\Users\21wiwa\source\repos\BiblioteksApp\BiblioteksApp\obj\Debug\net6.0\ref\BiblioteksApp.dll
